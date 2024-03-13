@@ -1,0 +1,230 @@
+@import url("https://fonts.cdnfonts.com/css/helvetica-255");
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.bg-primary--darkblue05 {
+  background-color: #091b6f !important;
+  color: white;
+}
+
+.bg-primary--darkblue04 {
+  background-color: #0d28a6 !important;
+  color: white;
+}
+
+.bg-primary--darkblue03 {
+  background-color: #5e70c4 !important;
+  color: white;
+}
+
+.bg-primary--darkblue02 {
+  background-color: #aeb7e1 !important;
+  color: white;
+}
+
+.bg-primary--darkblue01 {
+  background-color: #cfd4ed !important;
+  color: white;
+}
+
+.bg-primary--limegreen05 {
+  background-color: #3d7b3f !important;
+  color: white;
+}
+
+.bg-primary--limegreen04 {
+  background-color: #5cb85f !important;
+  color: white;
+}
+
+.bg-primary--limegreen03 {
+  background-color: #92d094 !important;
+  color: white;
+}
+
+.bg-primary--limegreen02 {
+  background-color: #c9e7ca !important;
+  color: white;
+}
+
+.bg-primary--limegreen01 {
+  background-color: #def1df !important;
+  color: white;
+}
+
+.alert--danger {
+  background-color: #fa2c5a !important;
+  color: white;
+}
+
+.alert--warning {
+  background-color: #f9cc00 !important;
+  color: white;
+}
+
+.alert--success {
+  background-color: #73ca5c !important;
+  color: white;
+}
+
+.btn--success {
+  background-color: #73ca5c !important;
+  color: #fff;
+  border-color: #73ca5c !important;
+}
+
+.text-primary--darkblue05 {
+  color: #091b6f;
+}
+
+.text-primary--darkblue04 {
+  color: #0d28a6;
+}
+
+.text-primary--darkblue03 {
+  color: #5e70c4;
+}
+
+.text-primary--darkblue02 {
+  color: #aeb7e1;
+}
+
+.text-primary--darkblue01 {
+  color: #cfd4ed;
+}
+
+.btn-primary--darkblue05 {
+  background-color: #091b6f !important;
+  color: white;
+}
+
+.btn-primary--darkblue05:hover {
+  background-color: #07135a !important;
+  color: white;
+}
+
+.btn-primary--darkblue04 {
+  background-color: #0d28a6 !important;
+  color: white;
+}
+
+.btn-primary--darkblue04:hover {
+  background-color: #0c2492 !important;
+  color: white;
+}
+
+.btn-primary--darkblue03 {
+  background-color: #5e70c4 !important;
+  color: white;
+}
+
+.btn-primary--darkblue03:hover {
+  background-color: #5260b7 !important;
+  color: white;
+}
+
+.btn-primary--darkblue02 {
+  background-color: #aeb7e1 !important;
+  color: white;
+}
+
+.btn-primary--darkblue02:hover {
+  background-color: #9da5d8 !important;
+  color: white;
+}
+
+.btn-primary--darkblue01 {
+  background-color: #cfd4ed !important;
+  color: white;
+}
+
+.btn-primary--darkblue01:hover {
+  background-color: #bdc2e8 !important;
+  color: white;
+}
+
+/*************** HOVER UNTUK COLOR ***********************/
+
+/* Hover untuk .bg-primary--darkblue05 */
+/* .bg-primary--darkblue05:hover {
+  background-color: #00125e !important;
+} */
+
+/* Hover untuk .bg-primary--darkblue04 */
+/* .bg-primary--darkblue04:hover {
+  background-color: #0a1f89 !important;
+} */
+
+/* Hover untuk .bg-primary--darkblue03 */
+/* .bg-primary--darkblue03:hover {
+  background-color: #5769c9 !important;
+} */
+
+/* Hover untuk .bg-primary--darkblue02 */
+/* .bg-primary--darkblue02:hover {
+  background-color: #a0aadf !important;
+} */
+
+/* Hover untuk .bg-primary--darkblue01 */
+/* .bg-primary--darkblue01:hover {
+  background-color: #bfc4ed !important;
+} */
+
+/* Hover untuk .bg-primary--limegreen05 */
+/* .bg-primary--limegreen05:hover {
+  background-color: #336633 !important;
+} */
+
+/* Hover untuk .bg-primary--limegreen04 */
+/* .bg-primary--limegreen04:hover {
+  background-color: #4f9f4f !important;
+} */
+
+/* Hover untuk .bg-primary--limegreen03 */
+/* .bg-primary--limegreen03:hover {
+  background-color: #81b881 !important;
+} */
+
+/* Hover untuk .bg-primary--limegreen02 */
+/* .bg-primary--limegreen02:hover {
+  background-color: #addbad !important;
+} */
+
+/* Hover untuk .bg-primary--limegreen01 */
+/* .bg-primary--limegreen01:hover {
+  background-color: #c8dfc8 !important;
+} */
+
+/* Hover untuk .alert--danger */
+.alert--danger:hover {
+  background-color: #d41e4f !important;
+}
+
+/* Hover untuk .alert--warning */
+.alert--warning:hover {
+  background-color: #e6b800 !important;
+}
+
+.btn--success:hover {
+  background-color: #5aa944 !important;
+  border-color: #5aa944 !important;
+  color: #fff;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+}
+
+.btn--pointer {
+  cursor: pointer;
+}
+@media (max-width: 575.98px) {
+  h1.display-6--center,
+  p.fs-6--center {
+    text-align: center;
+  }
+}
+
+/*************** HOVER UNTUK COLOR ***********************/
