@@ -225,6 +225,9 @@
   p.fs-6--center {
     text-align: center;
   }
+  img.img-fluid {
+    width: 25px;
+  }
 }
 
 /*************** HOVER UNTUK COLOR ***********************/
