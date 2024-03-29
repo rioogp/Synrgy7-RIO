@@ -1,8 +1,6 @@
 
-![Logo](https://github.com/rioogp/synrgy7-rio-bcr-ch1/blob/main/logo.png)
+![Logo](https://github.com/rioogp/Synrgy7-RIO-BCR/blob/main/logo.png)
 
-
-# Binar Car Rental - Binar Car Rental
 
 Pembangunan aplikasi Binar Car Rental berbasis website dengan bantuan beberapa framework dan mempunyai nilai tersendiri.
 
@@ -17,7 +15,7 @@ Pembangunan aplikasi Binar Car Rental berbasis website dengan bantuan beberapa f
 
 ## Screenshots
 
-![App Screenshot](https://github.com/rioogp/synrgy7-rio-bcr-ch1/blob/main/screenshot.png)
+![App Screenshot](https://github.com/rioogp/Synrgy7-RIO-BCR/blob/main/screenshot.png)
 
 ## Color Reference
 
