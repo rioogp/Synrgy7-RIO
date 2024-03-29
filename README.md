@@ -46,3 +46,13 @@ Pembangunan aplikasi Binar Car Rental berbasis website dengan bantuan beberapa f
 
 Coming Soon
 
+
+## FAQ
+
+#### Bagaimana Cara Mengaksesnya
+
+Bisa dicek bagian masing masing branch, saya upload challenge sesuai rules yang berlaku
+
+#### Terima Kasih
+
+Sama - sama
