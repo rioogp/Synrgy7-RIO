@@ -7,7 +7,7 @@ function sortCarByYearDescendingly(cars) {
   const result = [...cars];
 
   // Tulis code-mu disini
-
+  // result.sort((a, b) => b.year - a.year);
   // Bubblesort - Descending
   const len = result.length;
 
