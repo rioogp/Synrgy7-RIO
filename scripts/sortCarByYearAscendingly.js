@@ -7,7 +7,7 @@ function sortCarByYearAscendingly(cars) {
   const result = [...cars];
 
   // Tulis code-mu disini
-
+  // result.sort((a, b) => a.year - b.year);
   // Bubblesort - Ascending
   const len = result.length;
 
